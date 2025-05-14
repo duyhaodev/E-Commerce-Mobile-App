@@ -2,4 +2,28 @@
     <string name="app_name">BanDoAnNhanh</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="product_image">Product Image</string>
+    <string name="natural_red_apple">Natural Red Apple</string>
+    <string name="favorite">Favorite</string>
+    <string name="weight_1kg">1kg, Price</string>
+    <string name="decrease">Decrease</string>
+    <string name="one">1</string>
+    <string name="increase">Increase</string>
+    <string name="price_4_99">$4.99</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="expand">Expand</string>
+    <string name="apple_description">Apples Are Nutritious. Apples May Be Good For Weight Loss. Apples May Be Good For Your Heart. As Part Of A Healthful And Varied Diet.</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="per_100g">100gr</string>
+    <string name="review">Review</string>
+    <string name="add_to_basket">Add To Basket</string>
+
+    <string-array name="gender_array">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+        <item>Prefer not to say</item>
+    </string-array>
 </resources>

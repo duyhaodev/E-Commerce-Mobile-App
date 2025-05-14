@@ -49,4 +49,5 @@ dependencies {
     androidTestImplementation(libs.espresso.core)
     implementation ("com.google.firebase:firebase-firestore:24.9.1")
     implementation ("com.google.firebase:firebase-auth:22.3.0")
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
 }
